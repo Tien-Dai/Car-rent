@@ -7,7 +7,7 @@ const cars = [
     fuel: "90L",
     transmission: "Manual",
     people: "2 People",
-    image : "/public/img/car1.png",
+    image : "/img/car1.png",
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const cars = [
     fuel: "80L",
     transmission: "Manual",
     people: "2 People",
-    image : "/public/img/car2.png",
+    image : "/img/car2.png",
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const cars = [
     fuel: "70L",
     transmission: "Auto",
     people: "4 People",
-    image : "/public/img/car3.png",
+    image : "/img/car3.png",
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ const cars = [
     fuel: "70L",
     transmission: "Auto",
     people: "4 People",
-    image : "/public/img/car2.png",
+    image : "/img/car2.png",
   },
 ];
 
@@ -50,7 +50,7 @@ const Recomendcars = [
     fuel: "90L",
     transmission: "Manual",
     people: "2 People",
-    image : "/public/img/car4.png",
+    image : "/img/car4.png",
   },
   {
     id: 6,
@@ -60,7 +60,7 @@ const Recomendcars = [
     fuel: "80L",
     transmission: "Manual",
     people: "6 People",
-    image : "/public/img/car5.png",
+    image : "/img/car5.png",
   },
   {
     id: 7,
@@ -70,7 +70,7 @@ const Recomendcars = [
     fuel: "90L",
     transmission: "Auto",
     people: "6 People",
-    image : "/public/img/car6.png",
+    image : "/img/car6.png",
   },
   {
     id: 8,
@@ -80,7 +80,7 @@ const Recomendcars = [
     fuel: "70L",
     transmission: "Auto",
     people: "4 People",
-    image : "/public/img/car5.png",
+    image : "/img/car5.png",
   },
   {
     id: 9,
@@ -90,7 +90,7 @@ const Recomendcars = [
     fuel: "90L",
     transmission: "Manual",
     people: "2 People",
-    image : "/public/img/car7.png",
+    image : "/img/car7.png",
   },
   {
     id: 10,
@@ -100,7 +100,7 @@ const Recomendcars = [
     fuel: "80L",
     transmission: "Manual",
     people: "2 People",
-    image : "/public/img/car8.png",
+    image : "/img/car8.png",
   },
   {
     id: 11,
@@ -110,7 +110,7 @@ const Recomendcars = [
     fuel: "70L",
     transmission: "Auto",
     people: "4 People",
-    image : "/public/img/car7.png",
+    image : "/img/car7.png",
   },
   {
     id: 12,
@@ -120,7 +120,7 @@ const Recomendcars = [
     fuel: "70L",
     transmission: "Auto",
     people: "4 People",
-    image : "/public/img/car8.png",
+    image : "/img/car8.png",
   },
 ];
 const allCars = [
@@ -132,7 +132,7 @@ const allCars = [
     fuel: "90L",
     transmission: "Manual",
     people: "2 People",
-    image : "/public/img/car1.png",
+    image : "/img/car1.png",
     description:
       "Koenigsegg is a high-performance sports car designed for speed and luxury. Perfect for those who love power and elegance.",
 
@@ -167,7 +167,7 @@ const allCars = [
     fuel: "80L",
     transmission: "Manual",
     people: "2 People",
-    image : "/public/img/car2.png",
+    image : "/img/car2.png",
     description:
       "Koenigsegg is a high-performance sports car designed for speed and luxury. Perfect for those who love power and elegance.",
 
@@ -202,7 +202,7 @@ const allCars = [
     fuel: "70L",
     transmission: "Auto",
     people: "4 People",
-    image : "/public/img/car3.png",
+    image : "/img/car3.png",
     description:
       "Koenigsegg is a high-performance sports car designed for speed and luxury. Perfect for those who love power and elegance.",
 
@@ -237,7 +237,7 @@ const allCars = [
     fuel: "70L",
     transmission: "Auto",
     people: "4 People",
-    image : "/public/img/car2.png",
+    image : "/img/car2.png",
     description:
       "Koenigsegg is a high-performance sports car designed for speed and luxury. Perfect for those who love power and elegance.",
 
@@ -272,7 +272,7 @@ const allCars = [
     fuel: "90L",
     transmission: "Manual",
     people: "2 People",
-    image : "/public/img/car4.png",
+    image : "/img/car4.png",
     description:
       "Koenigsegg is a high-performance sports car designed for speed and luxury. Perfect for those who love power and elegance.",
 
@@ -307,7 +307,7 @@ const allCars = [
     fuel: "80L",
     transmission: "Manual",
     people: "6 People",
-    image : "/public/img/car5.png",
+    image : "/img/car5.png",
     description:
       "Koenigsegg is a high-performance sports car designed for speed and luxury. Perfect for those who love power and elegance.",
 
@@ -342,7 +342,7 @@ const allCars = [
     fuel: "90L",
     transmission: "Auto",
     people: "6 People",
-    image : "/public/img/car6.png",
+    image : "/img/car6.png",
     description:
       "Koenigsegg is a high-performance sports car designed for speed and luxury. Perfect for those who love power and elegance.",
 
@@ -377,7 +377,7 @@ const allCars = [
     fuel: "70L",
     transmission: "Auto",
     people: "4 People",
-    image : "/public/img/car5.png",
+    image : "/car5.png",
     description:
       "Koenigsegg is a high-performance sports car designed for speed and luxury. Perfect for those who love power and elegance.",
 
@@ -412,7 +412,7 @@ const allCars = [
     fuel: "90L",
     transmission: "Manual",
     people: "2 People",
-    image : "/public/img/car7.png",
+    image : "/img/car7.png",
     description:
       "Koenigsegg is a high-performance sports car designed for speed and luxury. Perfect for those who love power and elegance.",
 
@@ -447,7 +447,7 @@ const allCars = [
     fuel: "80L",
     transmission: "Manual",
     people: "2 People",
-    image : "/public/img/car8.png",
+    image : "/img/car8.png",
     description:
       "Koenigsegg is a high-performance sports car designed for speed and luxury. Perfect for those who love power and elegance.",
 
@@ -482,7 +482,7 @@ const allCars = [
     fuel: "70L",
     transmission: "Auto",
     people: "4 People",
-    image : "/public/img/car7.png",
+    image : "/img/car7.png",
     description:
       "Koenigsegg is a high-performance sports car designed for speed and luxury. Perfect for those who love power and elegance.",
 
@@ -517,7 +517,7 @@ const allCars = [
     fuel: "70L",
     transmission: "Auto",
     people: "4 People",
-    image : "/public/img/car8.png",
+    image : "/img/car8.png",
     description:
       "Koenigsegg is a high-performance sports car designed for speed and luxury. Perfect for those who love power and elegance.",
 
