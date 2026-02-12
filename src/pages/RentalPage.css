@@ -1,0 +1,80 @@
+.rental-page {
+  padding: 40px;
+  background: #f6f7f9;
+  min-height: 100vh;
+}
+
+.rental-container {
+  display: flex;
+  gap: 30px;
+}
+
+.rental-form {
+  flex: 2;
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+}
+.rental-form h2 {
+  margin-bottom: 25px;
+  color: rgb(47, 48, 48);
+}
+
+.rental-summary {
+  flex: 1;
+  background: white;
+  padding: 30px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.rental-summary h4 {
+  font-size: 26px;
+  color: rgb(13, 14, 14);
+}
+.rental-summary h3{
+  color: rgb(82, 83, 83);
+}
+.form-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+input {
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+.summary-image {
+  width: 100%;
+  margin: 20px 0;
+}
+
+.total-price {
+  margin-top: 15px;
+  font-size: 22px;
+  font-weight: bold;
+  color: rgb(47, 48, 48);
+}
+
+
+.rent-car-btn {
+  margin-bottom: 50px;
+  align-self: flex-end;
+  background: #3563e9;
+  color: white;
+  padding: 14px 40px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.rent-car-btn:hover {
+  background: #244bcc;
+}

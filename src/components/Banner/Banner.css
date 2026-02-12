@@ -1,0 +1,59 @@
+.banner {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  padding: 20px 40px;
+  background: #F6F7F9
+  
+}
+
+.banner-box {
+  border-radius: 16px;
+  padding: 30px;
+  color: white;
+  position: relative;
+  overflow: hidden;
+  width: 720px;
+  height: 260px;
+}
+.banner-box h2 {
+  font-size: 28px;
+  margin-bottom: 10px;
+  font-weight: 700;
+  
+}
+.banner-box p {
+  font-size: 16px;
+  margin-bottom: 20px;
+  margin-top: 30px;
+} 
+
+.banner-box img {
+  width: 280px;
+  position: absolute;
+  bottom: 0;
+  right: 20px;
+}
+
+.banner-box.left {
+  background: linear-gradient(135deg, #60a5fa, #2563eb);
+}
+
+.banner-box.right {
+  background: linear-gradient(135deg, #3b82f6, #1e40af);
+}
+.banner-box.right img {
+  width: 260px;
+  bottom: -30px;
+  right: 20px;
+}
+
+.banner-box button {
+  margin-top: 75px;
+  padding: 10px 20px;
+  border: none;
+  background: white;
+  color: #2563eb;
+  border-radius: 8px;
+  font-weight: 600;
+}
